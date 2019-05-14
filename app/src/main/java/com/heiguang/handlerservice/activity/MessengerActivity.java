@@ -17,6 +17,10 @@ import com.heiguang.handlerservice.R;
 import com.heiguang.handlerservice.base.MyConstants;
 import com.heiguang.handlerservice.service.MessengerService;
 
+/**
+ * 这是dev2的一个提交
+ */
+
 public class MessengerActivity extends AppCompatActivity {
 
     private static final String TAG = "MessengerActivity";
