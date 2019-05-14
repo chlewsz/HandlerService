@@ -19,6 +19,8 @@ import com.heiguang.handlerservice.service.MessengerService;
 
 /**
  * 这是dev1的版本
+ *
+ * dev1 又做了一次修改
  */
 
 public class MessengerActivity extends AppCompatActivity {
